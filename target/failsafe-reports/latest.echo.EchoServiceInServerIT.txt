@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: latest.echo.EchoServiceInServerIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 322.486 sec <<< FAILURE! - in latest.echo.EchoServiceInServerIT
+latest.echo.EchoServiceInServerIT  Time elapsed: 322.484 sec  <<< ERROR!
+org.jboss.arquillian.container.spi.client.container.LifecycleException: Could not start container
+Caused by: java.util.concurrent.TimeoutException: Managed server was not started within [60] s
+

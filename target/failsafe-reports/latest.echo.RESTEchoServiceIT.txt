@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: latest.echo.RESTEchoServiceIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in latest.echo.RESTEchoServiceIT
+latest.echo.RESTEchoServiceIT  Time elapsed: 0 sec  <<< ERROR!
+java.lang.RuntimeException: Arquillian has previously been attempted initialized, but failed. See cause for previous exception
+Caused by: org.jboss.arquillian.container.spi.client.container.LifecycleException: Could not start container
+Caused by: java.util.concurrent.TimeoutException: Managed server was not started within [60] s
+
