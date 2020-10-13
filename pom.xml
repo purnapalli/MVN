@@ -27,7 +27,7 @@
 		<version.slf4j>1.7.12</version.slf4j>
 		<version.javaee>7.0</version.javaee>
         
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
         <version.arquillian_universe>1.0.0.Alpha1</version.arquillian_universe>
         <version.shrinkwrap>1.2.6</version.shrinkwrap>
         <version.shrinkwrap.resolver>2.2.4</version.shrinkwrap.resolver>
